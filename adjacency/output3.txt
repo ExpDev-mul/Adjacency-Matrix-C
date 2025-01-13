@@ -1,0 +1,21 @@
+Please enter the contents of the 4X4 adjacency matrix:
+0,0,0,0
+0,0,0,0
+0,0,0,1
+0,0,0,0
+
+
+Please provide 2 indexes of vertices with order:
+
+The pair of indexes u=2, v=3  have a direct path from u to v.
+
+Please provide 2 indexes of vertices with order:
+
+The pair of indexes u=2, v=1 do not have a direct path from u to v.
+
+Please provide 2 indexes of vertices with order:
+
+The pair of indexes u=0, v=1 do not have a direct path from u to v.
+
+Please provide 2 indexes of vertices with order:
+End of file reached!

@@ -1,0 +1,16 @@
+Please enter the contents of the 3X3 adjacency matrix:
+0,1,0
+0,0,1
+0,0,0
+
+
+Please provide 2 indexes of vertices with order:
+
+The pair of indexes u=0, v=2  have a direct path from u to v.
+
+Please provide 2 indexes of vertices with order:
+
+The pair of indexes u=1, v=0 do not have a direct path from u to v.
+
+Please provide 2 indexes of vertices with order:
+End of file reached!
